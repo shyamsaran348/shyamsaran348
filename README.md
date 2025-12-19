@@ -53,6 +53,13 @@ Git · GitHub · Power BI · VS Code · Canva
 * Facial verification and monitoring using ML
 * React frontend with AI-powered backend logic
 
+### 🔹 System Threat Forecaster
+
+* End-to-end ML system to predict **malware / system threat probability** from telemetry data
+* Implemented **LightGBM, CatBoost, XGBoost, and transformer embeddings**
+* Advanced **ensembling & stacking (Optuna-optimized)** for improved AUC
+* Designed as a full-stack, deployment-ready forecasting engine
+
 ### 🔹 Competitive ML (Kaggle)
 
 * Text classification using **TF-IDF, LightGBM, CatBoost, RoBERTa**
