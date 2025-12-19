@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-* 2nd year IT undergraduate with strong interest in **Software Development & AI**
+* 3rd year IT undergraduate with strong interest in **Software Development & AI**
 * Hands-on experience in **Flask-based full-stack systems** and **Machine Learning pipelines**
 * Actively building **production-oriented projects** for interviews and real-world use
 * Passionate about clean architecture, scalable systems, and learning by building
