@@ -48,10 +48,6 @@ Git · GitHub · Power BI · VS Code · Canva
 * Admin, Librarian, and User workflows
 * Clean DB design and CRUD operations
 
-### 🔹 AI-Based Online Exam Proctoring System
-
-* Facial verification and monitoring using ML
-* React frontend with AI-powered backend logic
 
 ### 🔹 System Threat Forecaster
 
