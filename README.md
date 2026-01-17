@@ -1,100 +1,139 @@
 # Hi, I'm Shyam Saran P 👋
 
-🎓 **B.Tech Information Technology @ SSN College of Engineering, Chennai**
-💻 **Web Developer & Machine Learning Engineer**
-🚀 Building full-stack applications, RAG systems, and ML models
+🎓 **B.Tech Information Technology (3rd Year)** — SSN College of Engineering, Chennai  
+💻 **Web Developer | Machine Learning Engineer | SDE Aspirant**  
+🚀 Building **production-ready full-stack applications, RAG systems, and ML-driven solutions**
+
+---
+
+## 🏷️ Tech Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 🧠 About Me
 
-* 3rd year IT undergraduate with strong interest in **Software Development & AI**
-* Hands-on experience in **Flask-based full-stack systems** and **Machine Learning pipelines**
-* Actively building **production-oriented projects** for interviews and real-world use
-* Passionate about clean architecture, scalable systems, and learning by building
+Detail-oriented IT undergraduate with a strong interest in **software development, backend systems, and applied AI**.
+
+- Hands-on experience building **Flask-based full-stack applications**
+- Designed **machine learning pipelines** and **RAG-based AI systems**
+- Delivered **production-ready and client-facing solutions**
+- Strong foundation in **clean architecture, debugging, and scalable system design**
+
+I focus on writing **maintainable, efficient, and interview-ready code**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+**Languages**  
 Python · Java · C · JavaScript
 
-**Web Development**
-HTML · CSS · Flask · React · REST APIs
+**Web Development**  
+HTML · CSS · Flask · React · REST APIs · SQLAlchemy
 
-**Machine Learning & AI**
-Scikit-learn · Transformers (BERT / RoBERTa) · Hugging Face · RAG Systems
+**Machine Learning & AI**  
+Scikit-learn · Transformers (BERT / RoBERTa) · Hugging Face · RAG Systems · NLP
 
-**Databases**
+**Databases**  
 MySQL · PostgreSQL · SQLite · MongoDB
 
-**Tools & Platforms**
+**Tools & Platforms**  
 Git · GitHub · Power BI · VS Code · Canva
+
+**Core Concepts**  
+OOP · Database Design · RESTful Architecture · MVC · Agile Practices · Debugging
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Compliance & Policy Analyzer Chatbot (RAG)
+### 🔹 Policy Analyzer Chatbot (RAG-Based System)
+- Architected a **Retrieval-Augmented Generation chatbot** for policy and compliance analysis
+- Implemented document ingestion, chunking, vector embeddings, and semantic search
+- Integrated retrieval + generation to produce **accurate, explainable responses**
+- Responses are **grounded strictly in source documents** (zero hallucination design)
+- Built with a **clean, scalable backend architecture**
 
-* End-to-end RAG system using **FastAPI, ChromaDB, and LLaMA**
-* Answers strictly from policy documents with **citations (page + snippet)**
-* Zero hallucination design, interview-ready architecture
+---
+
+### 🔹 KUN FAYA KUN Automation Engineering – Corporate Website
+- Developed a **production-ready corporate website** for an industrial automation company
+- Designed multi-page layout for **product catalogs, technical specifications, and company profile**
+- Implemented **responsive UI**, SEO-friendly structure, and performance optimizations
+- Delivered using Git-based version control and iterative client feedback
+- Real-world, **client-facing deployment**
+
+---
 
 ### 🔹 Library Management System
+- Built a **role-based full-stack system** using **Flask + MySQL**
+- Implemented Admin, Librarian, and User workflows
+- Designed clean database schema with secure authentication and CRUD operations
+- Focused on backend correctness and maintainability
 
-* Role-based full-stack system using **Flask + MySQL**
-* Admin, Librarian, and User workflows
-* Clean DB design and CRUD operations
-
+---
 
 ### 🔹 System Threat Forecaster
+- Built an **end-to-end ML system** to forecast system security threats
+- Performed data preprocessing, feature engineering, and anomaly detection
+- Implemented **LightGBM, CatBoost, XGBoost**, and transformer embeddings
+- Used **Optuna-optimized ensembling & stacking** to improve AUC
+- Designed backend inference workflow for deployment readiness
 
-* End-to-end ML system to predict **malware / system threat probability** from telemetry data
-* Implemented **LightGBM, CatBoost, XGBoost, and transformer embeddings**
-* Advanced **ensembling & stacking (Optuna-optimized)** for improved AUC
-* Designed as a full-stack, deployment-ready forecasting engine
+---
 
-### 🔹 Competitive ML (Kaggle)
-
-* Text classification using **TF-IDF, LightGBM, CatBoost, RoBERTa**
-* Ensembling & stacking with Optuna optimization
-* Achieved high AUC using transformer-based models
+### 🔹 Competitive Machine Learning (Kaggle)
+- Text classification using **TF-IDF, LightGBM, CatBoost, RoBERTa**
+- Implemented **ensemble and stacking models** with Optuna optimization
+- Achieved strong performance using transformer-based approaches
 
 ---
 
 ## 💼 Experience
 
-**Machine Learning Intern — Corizo**
+### 🧠 Machine Learning Intern — Corizo  
 *Jan 2025 – Feb 2025*
+- Built and evaluated ML classification models
+- Worked with real-world datasets and performance metrics
+- Strengthened understanding of feature engineering and evaluation techniques
 
-* Built and evaluated ML classification models
-* Worked with real-world datasets and performance metrics
-
-**Web Development Intern — A2000 Solutions**
+### 🌐 Web Development Intern — A2000 Solutions  
 *Jun 2025 – Jul 2025*
-
-* Developed a modular Learning Management System
-* Implemented role-based access and analytics
+- Developed a **modular Learning Management System**
+- Implemented secure authentication and **role-based dashboards**
+- Designed backend logic and REST APIs
+- Used Git for version control and collaborative development
 
 ---
 
 ## 📜 Certifications
-
-* NPTEL – Java Programming
-* Udemy – Python Bootcamp
-* IBM – Data Analysis with Python
-* EC-Council – Intro to Dark Web & Crypto
+- NPTEL – Java Programming  
+- Udemy – Python Bootcamp  
+- IBM – Data Analysis with Python  
+- EC-Council – Introduction to Dark Web & Cryptocurrency  
 
 ---
 
 ## 📫 Connect With Me
 
-* **Email:** [shyamsaran348@gmail.com](mailto:shyamsaran348@gmail.com)
-* **LinkedIn:** [linkedin.com/in/shyam-saran-6172442b7](https://www.linkedin.com/in/shyam-saran-6172442b7)
-* **GitHub:** [github.com/shyamsaran348](https://github.com/shyamsaran348)
+- 📧 **Email:** shyamsaran348@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/shyam-saran-6172442b7  
+- 🧑‍💻 **GitHub:** https://github.com/shyamsaran348  
 
 ---
 
-⭐ *If you like my work, consider giving a star — it keeps me motivated!*
+⭐ *If you find my work useful, consider giving a star — it really helps!*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamsaran348&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsaran348&layout=compact)
