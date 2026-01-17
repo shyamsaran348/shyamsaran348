@@ -134,8 +134,10 @@ OOP · Database Design · RESTful Architecture · MVC · Agile Practices · Debu
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=shyamsaran348&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" />
+- Consistent contributor across **ML, backend, and full-stack projects**
+- Active work on **production-grade Flask systems**
+- Regular commits on **machine learning pipelines and experiments**
+- Experience with **collaborative Git-based workflows**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsaran348&layout=compact&hide_border=true&cache_seconds=1800" />
