@@ -133,7 +133,9 @@ OOP · Database Design · RESTful Architecture · MVC · Agile Practices · Debu
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamsaran348&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsaran348&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=shyamsaran348&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsaran348&layout=compact&hide_border=true&cache_seconds=1800" />
