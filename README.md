@@ -1,4 +1,3 @@
-```md id="t3fvv2"
 <h1 align="center">Hi 👋, I'm Shyam Saran P</h1>
 
 <h3 align="center">
@@ -6,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineering;FastAPI+%7C+Machine+Learning+%7C+RAG;Building+Scalable+Backend+Architectures;Research-Oriented+Full-Stack+Development;Production-Ready+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineering;FastAPI+%7C+Machine+Learning+%7C+RAG;Building+scalable+AI+systems" />
 </p>
 
 <p align="center">
@@ -221,4 +220,3 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
 </p>
-```
