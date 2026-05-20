@@ -146,11 +146,7 @@
 
 **A Comprehensive Review of Deep Learning Techniques for Object Detection and Image Enhancement in Marine Vision Systems**
 
-📄 IEEE-style Research Work
 
-**Temporal Behavioral Inference Engine (TBIE)**
-
----
 
 # 📊 GitHub Analytics
 
