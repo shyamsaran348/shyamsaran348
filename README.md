@@ -1,61 +1,64 @@
-```md id="xwzyr6"
+```md id="t3fvv2"
 <h1 align="center">Hi 👋, I'm Shyam Saran P</h1>
 
 <h3 align="center">
-AI Systems Developer • Backend Engineer • Machine Learning Enthusiast
+🚀 AI Systems Developer • Backend Engineer • ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+Systems;FastAPI+%7C+Machine+Learning+%7C+RAG;Research-Oriented+Backend+Engineering;Production-Ready+Full-Stack+Applications;Transformers+%7C+NLP+%7C+Scalable+Architectures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineering;FastAPI+%7C+Machine+Learning+%7C+RAG;Building+Scalable+Backend+Architectures;Research-Oriented+Full-Stack+Development;Production-Ready+Applications" />
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Shyam%20Saran%20P&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <a href="https://portfolio-lilac-gamma-63.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://portfolio-lilac-gamma-63.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/shyam-saran-6172442b7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/shyam-saran-6172442b7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:shyamsaran348@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:shyamsaran348@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/shyamsaran348">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/shyamsaran348">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 **B.Tech Information Technology (3rd Year)** — SSN College of Engineering, Chennai
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 B.Tech Information Technology (3rd Year)  
+🏫 SSN College of Engineering, Chennai
 
 💡 Passionate about:
 - AI Systems Engineering
 - Backend Development
-- Scalable Full-Stack Architectures
-- Retrieval-Augmented Generation (RAG)
+- RAG Systems
 - Machine Learning Research
-- Intelligent Automation Systems
+- Scalable Architectures
 
-🧠 Currently building:
-- Production-grade FastAPI systems
-- Research-oriented ML pipelines
+🧠 Currently Working On:
+- Research-grade AI systems
+- FastAPI backend architectures
 - Transformer-powered NLP systems
-- AI-assisted decision and verification systems
-- Scalable backend infrastructures
+- Production-ready applications
 
-⚡ I enjoy designing systems that are:
-- scalable
-- modular
-- maintainable
-- research-driven
-- deployment-ready
+⚡ I enjoy building systems that combine:
+- research
+- engineering
+- scalability
+
+<br clear="right"/>
 
 ---
 
@@ -63,51 +66,32 @@ AI Systems Developer • Backend Engineer • Machine Learning Enthusiast
 
 ## 👨‍💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
 </p>
 
 ---
 
-## 🌐 Web Development & Backend
+## 🌐 Frontend & Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,html,css,mysql,mongodb,postgresql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flask,fastapi,nodejs" />
 </p>
 
 ---
 
 ## 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-### ML & AI Technologies
-- Transformers (BERT / RoBERTa)
-- Hugging Face
-- NLP
-- Retrieval-Augmented Generation (RAG)
-- Scikit-learn
-- LightGBM
-- CatBoost
-- XGBoost
-- Optuna
-- Vector Embeddings
-
----
-
-## ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+<p align="center">
+<img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge"/>
 </p>
-
-- Power BI
-- Canva
-- REST APIs
-- SQLAlchemy
-- WebSockets
 
 ---
 
@@ -115,236 +99,126 @@ AI Systems Developer • Backend Engineer • Machine Learning Enthusiast
 
 ## 🧠 Temporal Behavioral Inference Engine (TBIE)
 
-> Research-grade AI-powered online proctoring and behavioral analysis system
+- Multi-signal probabilistic AI architecture
+- GRU-based uncertainty-aware risk fusion
+- Facial verification & behavioral analysis
+- Scalable AI inference workflows
 
-### 🔹 Key Highlights
-- Designed a multi-signal temporal probabilistic architecture for intelligent proctoring
-- Implemented behavioral anomaly detection using temporal inference workflows
-- Integrated facial verification, gaze analysis, identity consistency, and interaction monitoring
-- Built uncertainty-aware risk fusion mechanisms using GRU-based modeling
-- Developed modular pipelines for scalable AI inference and event analysis
-
-### ⚙️ Tech Stack
-`Python` • `Deep Learning` • `Computer Vision` • `GRU` • `FastAPI`
+**Tech:** Python • Deep Learning • FastAPI • Computer Vision
 
 ---
 
 ## 🛡️ VeriSource AI
 
-> AI-powered source verification and reliability analysis platform
+- RAG-powered source verification platform
+- Retrieval entropy & uncertainty modeling
+- Grounded hallucination-resistant responses
+- Semantic retrieval architecture
 
-### 🔹 Key Highlights
-- Engineered a Retrieval-Augmented Generation (RAG) pipeline for explainable source verification
-- Implemented retrieval entropy and uncertainty modeling for reliability estimation
-- Built semantic search workflows using vector embeddings and contextual retrieval
-- Designed grounded-response generation to minimize hallucinations
-- Developed scalable backend APIs for document ingestion and analysis
-
-### ⚙️ Tech Stack
-`FastAPI` • `RAG` • `LLMs` • `NLP` • `Vector Databases`
+**Tech:** FastAPI • NLP • RAG • LLMs
 
 ---
 
-## 📊 Reddit Rule Violation Detection System
+## 📊 Reddit Rule Violation Detection
 
-> Advanced NLP moderation system for large-scale text classification
+- Transformer-based NLP classification
+- Ensemble + stacking architectures
+- Optuna optimization workflows
+- Kaggle experimentation pipelines
 
-### 🔹 Key Highlights
-- Built transformer-based classification pipelines using RoBERTa and BERT
-- Implemented ensemble and stacking architectures with Optuna optimization
-- Integrated LightGBM, CatBoost, and transformer embeddings for improved AUC
-- Developed feature engineering workflows for moderation signal extraction
-- Designed scalable experimentation pipelines for Kaggle competition workflows
-
-### ⚙️ Tech Stack
-`Python` • `Transformers` • `RoBERTa` • `LightGBM` • `CatBoost`
+**Tech:** RoBERTa • LightGBM • CatBoost
 
 ---
 
 ## 🏫 Faculty-Driven Project Management System
 
-> AI-enhanced academic collaboration and project management platform
+- AI-powered SDG classification
+- Real-time collaboration workflows
+- RAG-based retrieval systems
+- Scalable backend architecture
 
-### 🔹 Key Highlights
-- Developed role-based project management workflows for faculty and students
-- Integrated AI-driven SDG classification using transformer-based inference
-- Built RAG-enabled intelligent project retrieval and recommendation workflows
-- Implemented real-time communication and modular backend architecture
-- Designed scalable APIs for academic project lifecycle management
-
-### ⚙️ Tech Stack
-`React` • `FastAPI` • `MongoDB` • `WebSockets` • `Transformers`
-
----
-
-## 🏛️ Heritage Intelligence Framework
-
-> Intelligent cultural heritage and monument analysis platform
-
-### 🔹 Key Highlights
-- Built AI-powered workflows for monument recognition and heritage intelligence
-- Designed deep learning pipelines for image enhancement and cultural analysis
-- Integrated metadata retrieval and contextual information systems
-- Developed modular research-oriented architecture for future expansion
-- Focused on scalable and explainable AI-assisted heritage understanding
-
-### ⚙️ Tech Stack
-`Python` • `Computer Vision` • `Deep Learning` • `Flask`
-
----
-
-## 🌐 KUN FAYA KUN Automation Engineering Website
-
-> Production-ready corporate website for industrial automation solutions
-
-### 🔹 Key Highlights
-- Designed and deployed a responsive multi-page corporate platform
-- Implemented SEO-optimized architecture and performance enhancements
-- Built technical product showcase workflows for industrial systems
-- Delivered real-world client-facing deployment with iterative improvements
-- Focused on clean UI/UX and maintainable frontend structure
-
-### ⚙️ Tech Stack
-`HTML` • `CSS` • `JavaScript`
-
----
-
-## 📚 Library Management System
-
-> Full-stack role-based library administration platform
-
-### 🔹 Key Highlights
-- Developed secure authentication and authorization workflows
-- Built Admin, Librarian, and User role management systems
-- Designed relational database schema with optimized CRUD operations
-- Implemented maintainable Flask backend architecture using SQLAlchemy
-- Focused on modularity and scalable backend organization
-
-### ⚙️ Tech Stack
-`Flask` • `MySQL` • `SQLAlchemy` • `Python`
-
----
-
-## ⚠️ System Threat Forecaster
-
-> Machine learning-driven cybersecurity threat prediction system
-
-### 🔹 Key Highlights
-- Developed end-to-end ML pipelines for threat forecasting and anomaly detection
-- Implemented feature engineering and predictive classification workflows
-- Integrated ensemble learning with Optuna-optimized stacking architectures
-- Built deployment-oriented backend inference pipelines
-- Focused on scalable experimentation and performance optimization
-
-### ⚙️ Tech Stack
-`Python` • `LightGBM` • `XGBoost` • `CatBoost` • `Scikit-learn`
-
----
-
-# 💼 Experience
-
-## 🧠 Machine Learning Intern — Corizo
-📅 Jan 2025 – Feb 2025
-
-- Built and evaluated ML classification systems
-- Worked on feature engineering and preprocessing workflows
-- Improved understanding of model evaluation and optimization techniques
-
----
-
-## 🌐 Web Development Intern — A2000 Solutions
-📅 Jun 2025 – Jul 2025
-
-- Developed a modular Learning Management System
-- Implemented secure authentication and role-based workflows
-- Designed scalable backend APIs and system architecture
-- Used Git-based collaborative development workflows
+**Tech:** React • FastAPI • MongoDB
 
 ---
 
 # 📚 Research & Publications
 
-📄 **Springer Publication (2026)**  
-*A Comprehensive Review of Deep Learning Techniques for Object Detection and Image Enhancement in Marine Vision Systems*
+📄 Springer Publication (2026)
 
-📄 **IEEE-style Research Work**  
-*Temporal Behavioral Inference Engine (TBIE)*
+**A Comprehensive Review of Deep Learning Techniques for Object Detection and Image Enhancement in Marine Vision Systems**
 
----
+📄 IEEE-style Research Work
 
-# 📜 Certifications
-
-🏅 NPTEL – Java Programming  
-🏅 IBM – Data Analysis with Python  
-🏅 Udemy – Python Bootcamp  
-🏅 EC-Council – Introduction to Dark Web & Cryptocurrency  
-🏅 Corizo – Machine Learning Internship
+**Temporal Behavioral Inference Engine (TBIE)**
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyamsaran348&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsaran348&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shyamsaran348&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsaran348&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsaran348&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsaran348&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shyamsaran348/shyamsaran348/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=shyamsaran348&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shyamsaran348&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-- AI Systems Engineering
-- FastAPI Backend Architecture
-- RAG + LLM Applications
-- Machine Learning Research
-- Scalable ML Pipelines
-- Backend Optimization
-- GATE CS Preparation
+🚀 AI Systems Engineering  
+🚀 FastAPI Backend Architecture  
+🚀 RAG + LLM Applications  
+🚀 Machine Learning Research  
+🚀 Production-grade Systems  
+🚀 GATE CS Preparation  
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:shyamsaran348@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/shyam-saran-6172442b7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="mailto:shyamsaran348@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://portfolio-lilac-gamma-63.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/shyam-saran-6172442b7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/shyamsaran348">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://portfolio-lilac-gamma-63.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyamsaran348&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Building intelligent systems that combine research, engineering, and scalability
+⭐ Building intelligent systems that combine research, engineering, and scalability ⭐
 </h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
+</p>
 ```
