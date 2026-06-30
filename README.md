@@ -143,13 +143,12 @@
 # 📚 Research & Publications
 
 
-# 📚 Research & Publications
 
 ### 📄 Explainable and Robust Heritage Intelligence Framework (ERHIF)
 
 🏛 **International Journal of Advanced Science and Engineering (IJASE)**  
 📅 June 2026  
-👤 Fourth Author  
+
 🔗 **Paper:** https://doi.org/10.29294/IJASE.12.4.2026.6492-6509
 
 ---
