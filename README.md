@@ -36,7 +36,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 B.Tech Information Technology (3rd Year)  
+🎓 B.Tech Information Technology (4th Year)  
 🏫 SSN College of Engineering, Chennai
 
 💡 Passionate about:
@@ -142,9 +142,12 @@
 
 # 📚 Research & Publications
 
-📄 Springer Publication (2026)
 
-**A Comprehensive Review of Deep Learning Techniques for Object Detection and Image Enhancement in Marine Vision Systems**
+| Publication                                                               | Venue         | Year |
+| ------------------------------------------------------------------------- | ------------- | ---- |
+| Explainable and Robust Heritage Intelligence Framework (ERHIF)            | IJASE Journal | 2026 |
+| Reddit Rule-Violation Classification Using LLM-Assisted Data Augmentation | IEEE ICDSAAI  | 2026 |
+| Deep Learning Techniques for Marine Vision Systems                        | Springer      | 2026 |
 
 
 
