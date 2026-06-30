@@ -143,13 +143,30 @@
 # 📚 Research & Publications
 
 
-| Publication                                                               | Venue         | Year |
-| ------------------------------------------------------------------------- | ------------- | ---- |
-| Explainable and Robust Heritage Intelligence Framework (ERHIF)            | IJASE Journal | 2026 |
-| Reddit Rule-Violation Classification Using LLM-Assisted Data Augmentation | IEEE ICDSAAI  | 2026 |
-| Deep Learning Techniques for Marine Vision Systems                        | Springer      | 2026 |
+# 📚 Research & Publications
 
+### 📄 Explainable and Robust Heritage Intelligence Framework (ERHIF)
 
+🏛 **International Journal of Advanced Science and Engineering (IJASE)**  
+📅 June 2026  
+👤 Fourth Author  
+🔗 **Paper:** https://doi.org/10.29294/IJASE.12.4.2026.6492-6509
+
+---
+
+### 📄 Reddit Rule-Violation Classification Using LLM-Assisted Data Augmentation and Multi-Model Evaluation
+
+🏛 **IEEE ICDSAAI 2026**  
+📅 2026  
+🔗 **IEEE Xplore:** https://ieeexplore.ieee.org/document/11505180
+
+---
+
+### 📄 A Comprehensive Review of Deep Learning Techniques for Object Detection and Image Enhancement in Marine Vision Systems
+
+🏛 **Springer**  
+📅 2026  
+🔗 **Springer Link:** https://link.springer.com/article/10.1007/s40868-026-00223-1
 
 # 📊 GitHub Analytics
 
